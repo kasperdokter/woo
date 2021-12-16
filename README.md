@@ -1,2 +1,0 @@
-# woo
-Onze fancy tradingbot

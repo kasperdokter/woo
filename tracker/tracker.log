@@ -1,0 +1,1211 @@
+INFO 2021-11-21 01:09:03,677: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 01:09:04,706: 862 entries were already downloaded
+INFO 2021-11-21 01:09:04,706: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 01:09:06,122: 892 entries were already downloaded
+INFO 2021-11-21 01:09:46,187: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 01:09:46,936: 999 entries were already downloaded
+INFO 2021-11-21 01:09:46,936: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 01:09:48,269: 999 entries were already downloaded
+INFO 2021-11-21 02:00:02,395: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 02:00:03,584: 948 entries were already downloaded
+INFO 2021-11-21 02:00:03,585: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 02:00:04,591: 948 entries were already downloaded
+INFO 2021-11-21 03:00:02,275: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 03:00:03,712: 939 entries were already downloaded
+INFO 2021-11-21 03:00:03,712: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 03:00:05,068: 939 entries were already downloaded
+INFO 2021-11-21 04:00:02,361: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 04:00:03,803: 939 entries were already downloaded
+INFO 2021-11-21 04:00:03,803: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 04:00:04,453: 938 entries were already downloaded
+INFO 2021-11-21 07:48:42,246: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 07:48:43,072: 771 entries were already downloaded
+INFO 2021-11-21 07:48:43,072: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 07:48:44,474: 771 entries were already downloaded
+INFO 2021-11-21 11:00:02,417: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 11:00:03,330: 808 entries were already downloaded
+INFO 2021-11-21 11:00:03,331: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 11:00:03,964: 808 entries were already downloaded
+INFO 2021-11-21 12:00:02,262: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 12:00:03,416: 939 entries were already downloaded
+INFO 2021-11-21 12:00:03,417: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 12:00:04,839: 939 entries were already downloaded
+INFO 2021-11-21 13:00:02,195: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 13:00:03,629: 939 entries were already downloaded
+INFO 2021-11-21 13:00:03,630: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 13:00:04,900: 939 entries were already downloaded
+INFO 2021-11-21 14:00:02,222: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 14:00:03,367: 938 entries were already downloaded
+INFO 2021-11-21 14:00:03,368: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 14:00:04,503: 939 entries were already downloaded
+INFO 2021-11-21 15:00:02,269: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 15:00:03,236: 939 entries were already downloaded
+INFO 2021-11-21 15:00:03,236: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 15:00:04,370: 939 entries were already downloaded
+INFO 2021-11-21 16:00:02,516: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 16:00:03,328: 940 entries were already downloaded
+INFO 2021-11-21 16:00:03,328: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 16:00:04,159: 938 entries were already downloaded
+INFO 2021-11-21 17:00:02,214: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 17:00:02,879: 938 entries were already downloaded
+INFO 2021-11-21 17:00:02,880: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 17:00:03,963: 940 entries were already downloaded
+INFO 2021-11-21 20:13:32,951: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 20:13:34,132: 806 entries were already downloaded
+INFO 2021-11-21 20:13:34,132: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 20:13:35,534: 805 entries were already downloaded
+INFO 2021-11-21 22:00:02,469: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 22:00:03,638: 892 entries were already downloaded
+INFO 2021-11-21 22:00:03,639: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 22:00:05,057: 893 entries were already downloaded
+INFO 2021-11-21 23:00:02,268: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-21 23:00:02,912: 939 entries were already downloaded
+INFO 2021-11-21 23:00:02,912: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-21 23:00:04,023: 939 entries were already downloaded
+INFO 2021-11-22 00:00:01,332: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 00:00:02,492: 939 entries were already downloaded
+INFO 2021-11-22 00:00:02,493: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 00:00:03,970: 939 entries were already downloaded
+INFO 2021-11-22 01:00:02,433: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 01:00:03,627: 939 entries were already downloaded
+INFO 2021-11-22 01:00:03,627: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 01:00:04,316: 938 entries were already downloaded
+INFO 2021-11-22 02:00:02,576: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 02:00:03,605: 940 entries were already downloaded
+INFO 2021-11-22 02:00:03,606: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 02:00:04,403: 940 entries were already downloaded
+INFO 2021-11-22 03:00:02,657: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 03:00:03,756: 938 entries were already downloaded
+INFO 2021-11-22 03:00:03,756: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 03:00:04,879: 939 entries were already downloaded
+INFO 2021-11-22 04:00:02,498: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 04:00:03,464: 939 entries were already downloaded
+INFO 2021-11-22 04:00:03,465: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 04:00:04,550: 939 entries were already downloaded
+INFO 2021-11-22 05:00:02,464: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 05:00:03,375: 940 entries were already downloaded
+INFO 2021-11-22 05:00:03,376: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 05:00:04,227: 939 entries were already downloaded
+INFO 2021-11-22 08:34:19,482: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 08:34:20,676: 784 entries were already downloaded
+INFO 2021-11-22 08:34:20,676: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 11:36:01,702: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 11:36:02,531: 818 entries were already downloaded
+INFO 2021-11-22 11:36:02,531: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 11:36:03,639: 603 entries were already downloaded
+INFO 2021-11-22 12:00:02,484: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 12:00:03,628: 974 entries were already downloaded
+INFO 2021-11-22 12:00:03,629: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 12:00:04,798: 975 entries were already downloaded
+INFO 2021-11-22 13:00:02,622: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 13:00:04,099: 939 entries were already downloaded
+INFO 2021-11-22 13:00:04,100: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 13:00:05,474: 939 entries were already downloaded
+INFO 2021-11-22 14:00:02,594: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 14:00:03,753: 940 entries were already downloaded
+INFO 2021-11-22 14:00:03,753: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 14:00:04,792: 939 entries were already downloaded
+INFO 2021-11-22 15:00:02,956: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 15:00:04,410: 938 entries were already downloaded
+INFO 2021-11-22 15:00:04,411: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 15:00:05,556: 939 entries were already downloaded
+INFO 2021-11-22 16:00:02,571: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 16:00:04,055: 940 entries were already downloaded
+INFO 2021-11-22 16:00:04,056: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 16:00:05,471: 939 entries were already downloaded
+INFO 2021-11-22 17:00:02,265: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 17:00:03,765: 938 entries were already downloaded
+INFO 2021-11-22 17:00:03,766: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 17:00:04,908: 938 entries were already downloaded
+INFO 2021-11-22 18:00:02,273: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 18:00:03,791: 939 entries were already downloaded
+INFO 2021-11-22 18:00:03,792: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 18:00:04,932: 939 entries were already downloaded
+INFO 2021-11-22 19:00:02,239: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 19:00:03,414: 939 entries were already downloaded
+INFO 2021-11-22 19:00:03,414: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 19:00:04,043: 940 entries were already downloaded
+INFO 2021-11-22 20:00:02,240: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 20:00:03,769: 940 entries were already downloaded
+INFO 2021-11-22 20:00:03,770: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 20:00:05,184: 939 entries were already downloaded
+INFO 2021-11-22 21:00:02,252: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 21:00:03,177: 938 entries were already downloaded
+INFO 2021-11-22 21:00:03,177: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 21:00:04,328: 938 entries were already downloaded
+INFO 2021-11-22 23:02:23,637: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-22 23:02:25,120: 877 entries were already downloaded
+INFO 2021-11-22 23:02:25,120: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-22 23:02:26,259: 877 entries were already downloaded
+INFO 2021-11-23 00:00:01,276: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 00:00:02,827: 942 entries were already downloaded
+INFO 2021-11-23 00:00:02,827: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 00:00:04,199: 942 entries were already downloaded
+INFO 2021-11-23 01:00:02,269: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 01:00:03,445: 939 entries were already downloaded
+INFO 2021-11-23 01:00:03,445: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 01:00:04,895: 939 entries were already downloaded
+INFO 2021-11-23 02:00:02,240: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 02:00:03,418: 939 entries were already downloaded
+INFO 2021-11-23 02:00:03,418: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 02:00:04,528: 939 entries were already downloaded
+INFO 2021-11-23 03:00:02,494: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 03:00:03,970: 938 entries were already downloaded
+INFO 2021-11-23 03:00:03,970: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 03:00:05,115: 939 entries were already downloaded
+INFO 2021-11-23 06:40:19,745: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 06:40:21,296: 779 entries were already downloaded
+INFO 2021-11-23 06:40:21,296: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 13:00:03,005: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 13:00:04,520: 619 entries were already downloaded
+INFO 2021-11-23 13:00:04,520: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 13:00:05,630: 399 entries were already downloaded
+INFO 2021-11-23 14:00:02,622: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 14:00:04,090: 939 entries were already downloaded
+INFO 2021-11-23 14:00:04,090: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 14:00:05,240: 939 entries were already downloaded
+INFO 2021-11-23 15:00:02,538: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 15:00:03,759: 939 entries were already downloaded
+INFO 2021-11-23 15:00:03,760: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 15:00:04,728: 939 entries were already downloaded
+INFO 2021-11-23 16:00:02,614: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 16:00:03,808: 939 entries were already downloaded
+INFO 2021-11-23 16:00:03,809: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 16:00:04,472: 939 entries were already downloaded
+INFO 2021-11-23 17:00:02,666: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 17:00:04,120: 939 entries were already downloaded
+INFO 2021-11-23 17:00:04,120: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 17:00:05,259: 938 entries were already downloaded
+INFO 2021-11-23 18:00:02,574: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 18:00:03,765: 940 entries were already downloaded
+INFO 2021-11-23 18:00:03,766: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 18:00:04,939: 940 entries were already downloaded
+INFO 2021-11-23 19:00:02,607: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 19:00:03,974: 939 entries were already downloaded
+INFO 2021-11-23 19:00:03,975: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 19:00:05,158: 939 entries were already downloaded
+INFO 2021-11-23 20:00:02,607: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 20:00:03,793: 938 entries were already downloaded
+INFO 2021-11-23 20:00:03,794: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 20:00:04,940: 939 entries were already downloaded
+INFO 2021-11-23 21:00:02,587: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 21:00:03,838: 940 entries were already downloaded
+INFO 2021-11-23 21:00:03,839: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 21:00:05,206: 939 entries were already downloaded
+INFO 2021-11-23 22:30:11,138: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 22:30:12,434: 909 entries were already downloaded
+INFO 2021-11-23 22:30:12,434: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 22:30:13,312: 908 entries were already downloaded
+INFO 2021-11-23 23:00:02,462: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-23 23:00:03,280: 968 entries were already downloaded
+INFO 2021-11-23 23:00:03,280: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-23 23:00:04,421: 970 entries were already downloaded
+INFO 2021-11-24 00:00:02,075: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 00:00:03,283: 940 entries were already downloaded
+INFO 2021-11-24 00:00:03,284: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 00:00:04,326: 939 entries were already downloaded
+INFO 2021-11-24 01:00:02,541: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 01:00:03,810: 939 entries were already downloaded
+INFO 2021-11-24 01:00:03,810: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 01:00:04,929: 939 entries were already downloaded
+INFO 2021-11-24 02:00:02,865: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 02:00:04,045: 939 entries were already downloaded
+INFO 2021-11-24 02:00:04,046: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 02:00:05,196: 939 entries were already downloaded
+INFO 2021-11-24 03:00:02,639: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 03:00:03,819: 938 entries were already downloaded
+INFO 2021-11-24 03:00:03,820: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 03:00:04,950: 939 entries were already downloaded
+INFO 2021-11-24 04:00:02,664: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 04:00:03,877: 939 entries were already downloaded
+INFO 2021-11-24 04:00:03,878: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 04:00:05,020: 938 entries were already downloaded
+INFO 2021-11-24 05:00:02,601: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 05:00:03,806: 939 entries were already downloaded
+INFO 2021-11-24 05:00:03,807: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 05:00:04,961: 939 entries were already downloaded
+INFO 2021-11-24 08:23:56,405: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 08:23:57,580: 796 entries were already downloaded
+INFO 2021-11-24 08:23:57,580: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 08:23:58,952: 796 entries were already downloaded
+INFO 2021-11-24 09:00:02,562: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 09:00:04,000: 963 entries were already downloaded
+INFO 2021-11-24 09:00:04,000: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 09:00:05,137: 963 entries were already downloaded
+INFO 2021-11-24 10:00:02,620: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 10:00:03,501: 938 entries were already downloaded
+INFO 2021-11-24 10:00:03,501: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 10:00:04,158: 939 entries were already downloaded
+INFO 2021-11-24 13:25:52,463: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 13:25:53,640: 794 entries were already downloaded
+INFO 2021-11-24 13:25:53,641: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 13:25:54,585: 793 entries were already downloaded
+INFO 2021-11-24 18:13:28,685: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 18:13:29,535: 711 entries were already downloaded
+INFO 2021-11-24 18:13:29,535: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 18:13:30,670: 711 entries were already downloaded
+INFO 2021-11-24 19:00:02,804: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 19:00:03,963: 952 entries were already downloaded
+INFO 2021-11-24 19:00:03,963: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 19:00:05,109: 953 entries were already downloaded
+INFO 2021-11-24 20:00:02,776: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 20:00:04,263: 939 entries were already downloaded
+INFO 2021-11-24 20:00:04,264: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 20:00:05,235: 939 entries were already downloaded
+INFO 2021-11-24 21:00:02,579: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 21:00:03,486: 940 entries were already downloaded
+INFO 2021-11-24 21:00:03,487: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 21:00:04,910: 939 entries were already downloaded
+INFO 2021-11-24 22:00:02,653: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 22:00:03,771: 938 entries were already downloaded
+INFO 2021-11-24 22:00:03,782: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 22:00:04,633: 939 entries were already downloaded
+INFO 2021-11-24 23:00:02,675: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-24 23:00:03,880: 939 entries were already downloaded
+INFO 2021-11-24 23:00:03,881: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-24 23:00:05,010: 939 entries were already downloaded
+INFO 2021-11-25 00:00:02,023: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 00:00:03,207: 939 entries were already downloaded
+INFO 2021-11-25 00:00:03,208: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 00:00:04,031: 939 entries were already downloaded
+INFO 2021-11-25 01:00:02,625: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 01:00:03,791: 939 entries were already downloaded
+INFO 2021-11-25 01:00:03,792: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 01:00:04,921: 939 entries were already downloaded
+INFO 2021-11-25 02:00:02,714: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 03:00:02,676: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 03:00:04,138: 879 entries were already downloaded
+INFO 2021-11-25 03:00:04,138: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 03:00:05,591: 878 entries were already downloaded
+INFO 2021-11-25 04:00:02,600: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 04:00:04,072: 939 entries were already downloaded
+INFO 2021-11-25 04:00:04,073: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 04:00:05,200: 939 entries were already downloaded
+INFO 2021-11-25 05:00:02,694: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 05:00:03,886: 939 entries were already downloaded
+INFO 2021-11-25 05:00:03,887: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 05:00:05,272: 940 entries were already downloaded
+INFO 2021-11-25 08:16:14,861: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 08:16:15,907: 803 entries were already downloaded
+INFO 2021-11-25 08:16:15,907: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 08:16:16,785: 802 entries were already downloaded
+INFO 2021-11-25 09:45:27,933: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 09:45:29,430: 910 entries were already downloaded
+INFO 2021-11-25 09:45:29,430: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 09:45:30,875: 910 entries were already downloaded
+INFO 2021-11-25 10:00:02,881: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 10:00:04,061: 984 entries were already downloaded
+INFO 2021-11-25 10:00:04,062: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 10:00:05,494: 985 entries were already downloaded
+INFO 2021-11-25 11:00:02,690: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 11:00:04,164: 939 entries were already downloaded
+INFO 2021-11-25 11:00:04,165: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 11:00:05,595: 939 entries were already downloaded
+INFO 2021-11-25 12:00:02,787: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 12:00:04,302: 940 entries were already downloaded
+INFO 2021-11-25 12:00:04,303: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 12:00:04,982: 939 entries were already downloaded
+INFO 2021-11-25 13:00:02,621: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 13:00:03,718: 938 entries were already downloaded
+INFO 2021-11-25 13:00:03,718: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 13:00:04,833: 939 entries were already downloaded
+INFO 2021-11-25 14:00:02,616: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 14:00:04,072: 939 entries were already downloaded
+INFO 2021-11-25 14:00:04,072: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 14:00:05,296: 938 entries were already downloaded
+INFO 2021-11-25 15:00:02,612: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 15:00:04,102: 940 entries were already downloaded
+INFO 2021-11-25 15:00:04,102: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 15:00:05,243: 940 entries were already downloaded
+INFO 2021-11-25 16:00:02,667: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 16:00:04,121: 938 entries were already downloaded
+INFO 2021-11-25 16:00:04,122: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 16:00:05,273: 939 entries were already downloaded
+INFO 2021-11-25 17:00:02,558: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 17:00:04,033: 939 entries were already downloaded
+INFO 2021-11-25 17:00:04,034: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 17:00:05,478: 939 entries were already downloaded
+INFO 2021-11-25 18:00:02,610: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 18:00:03,746: 939 entries were already downloaded
+INFO 2021-11-25 18:00:03,746: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 18:00:04,621: 938 entries were already downloaded
+INFO 2021-11-25 19:00:02,659: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 19:00:04,171: 940 entries were already downloaded
+INFO 2021-11-25 19:00:04,172: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 19:00:05,335: 940 entries were already downloaded
+INFO 2021-11-25 20:00:02,681: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 20:00:03,640: 938 entries were already downloaded
+INFO 2021-11-25 20:00:03,641: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 20:00:04,580: 939 entries were already downloaded
+INFO 2021-11-25 21:00:02,537: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 21:00:03,953: 940 entries were already downloaded
+INFO 2021-11-25 21:00:03,954: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 21:00:05,415: 939 entries were already downloaded
+INFO 2021-11-25 22:00:02,658: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 22:00:04,019: 938 entries were already downloaded
+INFO 2021-11-25 22:00:04,019: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 22:00:05,457: 939 entries were already downloaded
+INFO 2021-11-25 23:00:02,604: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-25 23:00:04,090: 939 entries were already downloaded
+INFO 2021-11-25 23:00:04,090: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-25 23:00:05,240: 939 entries were already downloaded
+INFO 2021-11-26 00:00:02,016: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 00:00:03,027: 940 entries were already downloaded
+INFO 2021-11-26 00:00:03,028: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-26 00:00:04,065: 939 entries were already downloaded
+INFO 2021-11-26 01:00:02,699: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 01:00:04,114: 938 entries were already downloaded
+INFO 2021-11-26 01:00:04,115: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-26 01:00:05,172: 938 entries were already downloaded
+INFO 2021-11-26 03:00:02,549: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 03:00:03,734: 879 entries were already downloaded
+INFO 2021-11-26 03:00:03,734: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-26 03:00:05,154: 880 entries were already downloaded
+INFO 2021-11-26 06:20:52,122: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 06:20:53,316: 799 entries were already downloaded
+INFO 2021-11-26 06:20:53,316: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-26 06:20:54,451: 798 entries were already downloaded
+INFO 2021-11-26 10:12:43,135: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 10:12:44,241: 767 entries were already downloaded
+INFO 2021-11-26 10:12:44,242: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-26 10:12:45,302: 767 entries were already downloaded
+INFO 2021-11-26 11:13:55,448: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 12:00:02,749: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 13:00:02,599: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 14:00:02,656: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 15:00:02,679: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 16:00:02,534: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 17:00:02,572: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-26 18:00:02,546: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-27 11:28:23,054: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-27 11:28:24,257: 0 entries were already downloaded
+INFO 2021-11-27 11:28:24,257: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-27 11:28:25,468: 0 entries were already downloaded
+INFO 2021-11-27 14:40:06,700: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-27 14:40:07,680: 807 entries were already downloaded
+INFO 2021-11-27 14:40:07,681: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-28 14:00:02,673: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-28 14:00:04,185: 0 entries were already downloaded
+INFO 2021-11-28 14:00:04,185: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-28 14:00:05,675: 0 entries were already downloaded
+INFO 2021-11-28 15:00:03,062: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-28 15:00:04,535: 939 entries were already downloaded
+INFO 2021-11-28 15:00:04,535: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-28 15:00:05,946: 939 entries were already downloaded
+INFO 2021-11-28 16:16:08,690: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-28 16:16:09,898: 923 entries were already downloaded
+INFO 2021-11-28 16:16:09,898: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-28 16:16:11,273: 923 entries were already downloaded
+INFO 2021-11-28 17:00:02,643: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-28 17:00:03,477: 955 entries were already downloaded
+INFO 2021-11-28 17:00:03,478: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-28 17:00:04,238: 955 entries were already downloaded
+INFO 2021-11-28 18:00:02,659: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-28 18:00:04,130: 938 entries were already downloaded
+INFO 2021-11-28 18:00:04,130: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-28 18:00:05,539: 939 entries were already downloaded
+INFO 2021-11-28 21:52:35,032: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-28 21:52:36,505: 767 entries were already downloaded
+INFO 2021-11-28 21:52:36,506: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-28 23:00:02,953: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-28 23:00:04,158: 931 entries were already downloaded
+INFO 2021-11-28 23:00:04,159: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-28 23:00:05,073: 698 entries were already downloaded
+INFO 2021-11-29 00:00:02,107: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 00:00:03,276: 939 entries were already downloaded
+INFO 2021-11-29 00:00:03,276: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 00:00:04,745: 940 entries were already downloaded
+INFO 2021-11-29 01:00:02,653: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 01:00:04,061: 939 entries were already downloaded
+INFO 2021-11-29 01:00:04,062: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 01:00:05,563: 938 entries were already downloaded
+INFO 2021-11-29 02:00:02,631: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 02:00:03,732: 939 entries were already downloaded
+INFO 2021-11-29 02:00:03,733: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 02:00:04,812: 940 entries were already downloaded
+INFO 2021-11-29 03:00:02,677: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 03:00:04,167: 940 entries were already downloaded
+INFO 2021-11-29 03:00:04,168: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 03:00:05,462: 939 entries were already downloaded
+INFO 2021-11-29 06:04:38,326: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 06:04:39,618: 814 entries were already downloaded
+INFO 2021-11-29 06:04:39,618: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 19:00:02,672: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 19:00:03,864: 223 entries were already downloaded
+INFO 2021-11-29 19:00:03,865: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 19:00:05,089: 39 entries were already downloaded
+INFO 2021-11-29 20:00:02,739: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 20:00:04,247: 940 entries were already downloaded
+INFO 2021-11-29 20:00:04,247: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 20:00:05,466: 938 entries were already downloaded
+INFO 2021-11-29 21:00:02,872: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 21:00:04,028: 938 entries were already downloaded
+INFO 2021-11-29 21:00:04,028: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 21:00:05,207: 939 entries were already downloaded
+INFO 2021-11-29 22:00:02,654: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 22:00:03,618: 939 entries were already downloaded
+INFO 2021-11-29 22:00:03,618: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 22:00:05,054: 940 entries were already downloaded
+INFO 2021-11-29 23:00:02,705: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-29 23:00:03,515: 940 entries were already downloaded
+INFO 2021-11-29 23:00:03,516: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-29 23:00:04,659: 939 entries were already downloaded
+INFO 2021-11-30 00:00:02,128: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 00:00:03,186: 939 entries were already downloaded
+INFO 2021-11-30 00:00:03,187: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 00:00:04,227: 938 entries were already downloaded
+INFO 2021-11-30 01:00:02,622: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 01:00:04,059: 938 entries were already downloaded
+INFO 2021-11-30 01:00:04,060: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 01:00:05,007: 940 entries were already downloaded
+INFO 2021-11-30 02:00:02,660: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 02:00:04,090: 939 entries were already downloaded
+INFO 2021-11-30 02:00:04,090: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 02:00:04,942: 938 entries were already downloaded
+INFO 2021-11-30 03:00:02,637: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 03:00:04,089: 940 entries were already downloaded
+INFO 2021-11-30 03:00:04,090: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 03:00:05,511: 940 entries were already downloaded
+INFO 2021-11-30 04:00:02,654: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 04:00:03,632: 939 entries were already downloaded
+INFO 2021-11-30 04:00:03,632: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 04:00:04,295: 939 entries were already downloaded
+INFO 2021-11-30 07:11:01,634: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 07:11:02,553: 807 entries were already downloaded
+INFO 2021-11-30 07:11:02,553: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 07:11:03,937: 808 entries were already downloaded
+INFO 2021-11-30 11:11:22,898: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 11:11:23,658: 759 entries were already downloaded
+INFO 2021-11-30 11:11:23,658: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 11:11:24,364: 758 entries were already downloaded
+INFO 2021-11-30 15:33:44,425: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 16:00:02,653: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 17:00:02,730: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 18:00:02,744: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 19:21:15,145: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 19:21:16,014: 509 entries were already downloaded
+INFO 2021-11-30 19:21:16,015: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 19:21:16,656: 509 entries were already downloaded
+INFO 2021-11-30 20:00:03,078: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 20:00:04,506: 960 entries were already downloaded
+INFO 2021-11-30 20:00:04,507: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 20:00:05,942: 961 entries were already downloaded
+INFO 2021-11-30 21:00:02,884: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 21:00:03,584: 939 entries were already downloaded
+INFO 2021-11-30 21:00:03,584: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 21:00:04,693: 939 entries were already downloaded
+INFO 2021-11-30 22:00:02,793: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 22:00:03,617: 939 entries were already downloaded
+INFO 2021-11-30 22:00:03,618: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 22:00:04,775: 938 entries were already downloaded
+INFO 2021-11-30 23:00:02,686: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-11-30 23:00:03,883: 940 entries were already downloaded
+INFO 2021-11-30 23:00:03,884: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-11-30 23:00:05,063: 940 entries were already downloaded
+INFO 2021-12-01 00:00:02,100: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 00:00:03,090: 938 entries were already downloaded
+INFO 2021-12-01 00:00:03,091: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-01 00:00:04,234: 939 entries were already downloaded
+INFO 2021-12-01 01:00:02,688: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 01:00:04,181: 939 entries were already downloaded
+INFO 2021-12-01 01:00:04,182: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-01 01:00:05,256: 939 entries were already downloaded
+INFO 2021-12-01 04:53:03,039: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 04:53:03,785: 767 entries were already downloaded
+INFO 2021-12-01 04:53:03,785: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-01 04:53:04,465: 765 entries were already downloaded
+INFO 2021-12-01 10:04:29,657: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 11:00:02,705: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 12:00:02,702: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 13:00:02,728: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 14:00:02,786: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 15:00:02,913: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 16:00:02,769: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 17:00:02,742: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 18:00:02,721: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 19:00:02,793: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 20:00:02,820: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 21:30:16,025: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 21:30:17,219: 1 entries were already downloaded
+INFO 2021-12-01 21:30:17,220: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-01 21:30:18,016: 2 entries were already downloaded
+INFO 2021-12-01 22:00:02,651: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 22:00:03,554: 969 entries were already downloaded
+INFO 2021-12-01 22:00:03,555: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-01 22:00:04,979: 969 entries were already downloaded
+INFO 2021-12-01 23:00:02,640: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-01 23:00:03,562: 940 entries were already downloaded
+INFO 2021-12-01 23:00:03,562: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-01 23:00:04,789: 940 entries were already downloaded
+INFO 2021-12-02 00:00:02,136: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 00:00:03,426: 938 entries were already downloaded
+INFO 2021-12-02 00:00:03,426: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-02 00:00:04,608: 939 entries were already downloaded
+INFO 2021-12-02 01:00:02,635: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 01:00:04,123: 939 entries were already downloaded
+INFO 2021-12-02 01:00:04,124: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-02 01:00:05,253: 939 entries were already downloaded
+INFO 2021-12-02 02:00:01,678: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 02:00:02,546: 939 entries were already downloaded
+INFO 2021-12-02 02:00:02,546: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-02 02:00:03,909: 938 entries were already downloaded
+INFO 2021-12-02 05:15:00,571: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 05:15:01,673: 804 entries were already downloaded
+INFO 2021-12-02 05:15:01,673: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-02 13:14:20,827: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 14:00:02,712: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 15:00:02,981: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 16:00:02,804: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 17:00:02,805: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 18:00:02,745: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 19:00:02,690: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 20:00:02,713: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 21:00:02,674: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 22:00:02,755: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-02 23:00:02,894: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 09:34:10,125: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 09:34:10,957: 0 entries were already downloaded
+INFO 2021-12-03 09:34:10,958: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-03 09:34:12,165: 0 entries were already downloaded
+INFO 2021-12-03 10:34:07,831: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 10:34:09,158: 940 entries were already downloaded
+INFO 2021-12-03 10:34:09,159: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-03 10:34:10,610: 940 entries were already downloaded
+INFO 2021-12-03 11:46:50,874: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 12:34:07,747: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 13:34:07,946: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 14:34:07,739: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 15:34:07,691: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 16:34:07,774: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 17:34:07,741: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 18:55:06,054: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 19:34:07,704: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 19:34:08,875: 458 entries were already downloaded
+INFO 2021-12-03 19:34:08,876: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-03 19:34:09,868: 458 entries were already downloaded
+INFO 2021-12-03 20:34:07,679: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 20:34:09,158: 939 entries were already downloaded
+INFO 2021-12-03 20:34:09,159: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-03 20:34:10,570: 940 entries were already downloaded
+INFO 2021-12-03 21:34:07,616: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 21:34:08,626: 939 entries were already downloaded
+INFO 2021-12-03 21:34:08,626: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-03 21:34:09,745: 939 entries were already downloaded
+INFO 2021-12-03 23:49:01,383: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-03 23:49:02,542: 865 entries were already downloaded
+INFO 2021-12-03 23:49:02,542: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-03 23:49:04,075: 864 entries were already downloaded
+INFO 2021-12-04 00:00:02,149: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 00:00:03,646: 987 entries were already downloaded
+INFO 2021-12-04 00:00:03,646: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 00:00:04,817: 988 entries were already downloaded
+INFO 2021-12-04 00:34:07,729: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 00:34:09,082: 966 entries were already downloaded
+INFO 2021-12-04 00:34:09,082: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 00:34:10,340: 965 entries were already downloaded
+INFO 2021-12-04 01:00:02,779: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 01:00:03,645: 972 entries were already downloaded
+INFO 2021-12-04 01:00:03,646: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 01:00:04,816: 972 entries were already downloaded
+INFO 2021-12-04 01:34:07,678: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 01:34:08,869: 966 entries were already downloaded
+INFO 2021-12-04 01:34:08,870: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 01:34:10,041: 966 entries were already downloaded
+INFO 2021-12-04 02:00:02,696: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 02:00:03,918: 972 entries were already downloaded
+INFO 2021-12-04 02:00:03,918: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 02:00:05,071: 972 entries were already downloaded
+INFO 2021-12-04 02:34:07,724: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 02:34:09,227: 965 entries were already downloaded
+INFO 2021-12-04 02:34:09,227: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 02:34:10,377: 966 entries were already downloaded
+INFO 2021-12-04 03:00:02,675: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 03:00:04,154: 973 entries were already downloaded
+INFO 2021-12-04 03:00:04,154: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 03:00:05,605: 973 entries were already downloaded
+INFO 2021-12-04 03:34:07,627: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 03:34:09,100: 966 entries were already downloaded
+INFO 2021-12-04 03:34:09,101: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 03:34:10,247: 965 entries were already downloaded
+INFO 2021-12-04 04:00:02,628: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 04:00:03,528: 972 entries were already downloaded
+INFO 2021-12-04 04:00:03,528: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 04:00:04,596: 973 entries were already downloaded
+INFO 2021-12-04 04:34:07,727: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 04:34:08,744: 966 entries were already downloaded
+INFO 2021-12-04 04:34:08,744: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 04:34:09,676: 965 entries were already downloaded
+INFO 2021-12-04 05:00:02,619: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 05:00:03,779: 972 entries were already downloaded
+INFO 2021-12-04 05:00:03,780: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 05:00:05,234: 972 entries were already downloaded
+INFO 2021-12-04 08:34:01,616: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 14:00:03,146: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 14:00:04,649: 459 entries were already downloaded
+INFO 2021-12-04 14:00:04,650: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 14:00:05,803: 460 entries were already downloaded
+INFO 2021-12-04 15:00:02,737: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 15:00:04,262: 940 entries were already downloaded
+INFO 2021-12-04 15:00:04,262: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 15:00:05,145: 938 entries were already downloaded
+INFO 2021-12-04 16:00:02,689: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 16:00:04,152: 938 entries were already downloaded
+INFO 2021-12-04 16:00:04,153: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 16:00:05,155: 940 entries were already downloaded
+INFO 2021-12-04 17:00:02,664: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 17:00:03,858: 939 entries were already downloaded
+INFO 2021-12-04 17:00:03,858: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 17:00:04,996: 938 entries were already downloaded
+INFO 2021-12-04 18:00:02,709: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 18:00:03,905: 939 entries were already downloaded
+INFO 2021-12-04 18:00:03,905: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 18:00:04,581: 940 entries were already downloaded
+INFO 2021-12-04 19:20:24,411: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 19:20:25,559: 919 entries were already downloaded
+INFO 2021-12-04 19:20:25,559: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 19:20:26,985: 918 entries were already downloaded
+INFO 2021-12-04 20:00:02,722: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 20:00:03,603: 959 entries were already downloaded
+INFO 2021-12-04 20:00:03,624: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 20:00:04,642: 960 entries were already downloaded
+INFO 2021-12-04 21:00:02,850: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 21:00:04,053: 939 entries were already downloaded
+INFO 2021-12-04 21:00:04,054: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 21:00:05,143: 939 entries were already downloaded
+INFO 2021-12-04 22:00:02,676: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 22:00:03,934: 939 entries were already downloaded
+INFO 2021-12-04 22:00:03,934: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 22:00:05,105: 939 entries were already downloaded
+INFO 2021-12-04 23:00:02,653: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-04 23:00:03,893: 940 entries were already downloaded
+INFO 2021-12-04 23:00:03,894: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-04 23:00:04,998: 939 entries were already downloaded
+INFO 2021-12-05 00:00:02,130: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-05 00:00:03,314: 938 entries were already downloaded
+INFO 2021-12-05 00:00:03,314: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-05 00:00:03,980: 938 entries were already downloaded
+INFO 2021-12-05 01:00:02,699: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-05 01:00:03,901: 939 entries were already downloaded
+INFO 2021-12-05 01:00:03,902: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-05 01:00:04,952: 940 entries were already downloaded
+INFO 2021-12-05 02:00:02,661: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-05 02:00:04,148: 940 entries were already downloaded
+INFO 2021-12-05 02:00:04,148: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-05 02:00:05,608: 939 entries were already downloaded
+INFO 2021-12-05 05:22:51,979: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-05 05:22:53,555: 796 entries were already downloaded
+INFO 2021-12-05 05:22:53,556: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 02:00:02,977: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 02:00:04,475: 0 entries were already downloaded
+INFO 2021-12-06 02:00:04,476: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 02:00:05,469: 0 entries were already downloaded
+INFO 2021-12-06 05:02:06,305: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 05:02:07,784: 817 entries were already downloaded
+INFO 2021-12-06 05:02:07,784: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 05:02:09,220: 817 entries were already downloaded
+INFO 2021-12-06 08:40:25,648: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 08:40:26,830: 781 entries were already downloaded
+INFO 2021-12-06 08:40:26,831: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 08:40:27,806: 780 entries were already downloaded
+INFO 2021-12-06 09:00:02,808: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 09:00:04,215: 979 entries were already downloaded
+INFO 2021-12-06 09:00:04,216: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 09:00:05,433: 979 entries were already downloaded
+INFO 2021-12-06 10:00:02,722: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 10:00:04,244: 939 entries were already downloaded
+INFO 2021-12-06 10:00:04,245: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 10:00:05,675: 939 entries were already downloaded
+INFO 2021-12-06 13:42:10,174: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 13:42:11,378: 777 entries were already downloaded
+INFO 2021-12-06 13:42:11,379: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 13:42:12,531: 777 entries were already downloaded
+INFO 2021-12-06 18:37:56,337: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 18:37:57,590: 704 entries were already downloaded
+INFO 2021-12-06 18:37:57,590: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 18:37:58,763: 704 entries were already downloaded
+INFO 2021-12-06 19:00:02,920: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 19:00:04,395: 976 entries were already downloaded
+INFO 2021-12-06 19:00:04,396: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 19:00:05,828: 977 entries were already downloaded
+INFO 2021-12-06 20:00:02,779: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 20:00:04,087: 939 entries were already downloaded
+INFO 2021-12-06 20:00:04,088: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 20:00:05,205: 939 entries were already downloaded
+INFO 2021-12-06 21:00:02,754: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 21:00:04,222: 940 entries were already downloaded
+INFO 2021-12-06 21:00:04,223: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 21:00:05,564: 939 entries were already downloaded
+INFO 2021-12-06 22:00:02,753: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 22:00:03,881: 938 entries were already downloaded
+INFO 2021-12-06 22:00:03,882: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 22:00:05,321: 939 entries were already downloaded
+INFO 2021-12-06 23:00:02,971: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-06 23:00:04,423: 939 entries were already downloaded
+INFO 2021-12-06 23:00:04,424: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-06 23:00:05,494: 938 entries were already downloaded
+INFO 2021-12-07 00:00:02,165: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 00:00:03,255: 940 entries were already downloaded
+INFO 2021-12-07 00:00:03,256: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 00:00:04,024: 940 entries were already downloaded
+INFO 2021-12-07 01:00:02,840: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 01:00:04,345: 938 entries were already downloaded
+INFO 2021-12-07 01:00:04,346: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 01:00:05,797: 939 entries were already downloaded
+INFO 2021-12-07 02:00:02,656: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 03:00:02,789: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 03:00:03,932: 880 entries were already downloaded
+INFO 2021-12-07 03:00:03,933: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 03:00:05,111: 879 entries were already downloaded
+INFO 2021-12-07 06:51:40,684: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 06:51:42,547: 767 entries were already downloaded
+INFO 2021-12-07 06:51:42,548: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 11:00:03,070: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 11:00:04,270: 750 entries were already downloaded
+INFO 2021-12-07 11:00:04,271: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 11:00:05,813: 519 entries were already downloaded
+INFO 2021-12-07 12:00:02,712: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 12:00:03,919: 939 entries were already downloaded
+INFO 2021-12-07 12:00:03,920: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 12:00:05,413: 939 entries were already downloaded
+INFO 2021-12-07 13:00:02,724: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 13:00:04,237: 939 entries were already downloaded
+INFO 2021-12-07 13:00:04,238: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 13:00:05,456: 938 entries were already downloaded
+INFO 2021-12-07 14:00:02,732: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 14:00:03,931: 939 entries were already downloaded
+INFO 2021-12-07 14:00:03,931: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 14:00:04,905: 939 entries were already downloaded
+INFO 2021-12-07 15:00:02,783: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 15:00:03,768: 939 entries were already downloaded
+INFO 2021-12-07 15:00:03,769: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 15:00:04,927: 940 entries were already downloaded
+INFO 2021-12-07 16:00:02,793: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 16:00:03,958: 940 entries were already downloaded
+INFO 2021-12-07 16:00:03,958: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 16:00:05,393: 939 entries were already downloaded
+INFO 2021-12-07 17:00:02,680: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 17:00:03,383: 938 entries were already downloaded
+INFO 2021-12-07 17:00:03,384: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 17:00:04,288: 939 entries were already downloaded
+INFO 2021-12-07 19:56:28,274: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 19:56:29,860: 823 entries were already downloaded
+INFO 2021-12-07 19:56:29,861: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 19:56:31,376: 822 entries were already downloaded
+INFO 2021-12-07 20:00:05,343: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 20:00:06,250: 996 entries were already downloaded
+INFO 2021-12-07 20:00:06,251: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 20:00:07,438: 996 entries were already downloaded
+INFO 2021-12-07 21:00:02,894: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 21:00:04,425: 938 entries were already downloaded
+INFO 2021-12-07 21:00:04,427: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 21:00:05,306: 938 entries were already downloaded
+INFO 2021-12-07 22:00:02,883: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 22:00:03,709: 939 entries were already downloaded
+INFO 2021-12-07 22:00:03,710: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 22:00:05,187: 940 entries were already downloaded
+INFO 2021-12-07 23:00:02,940: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-07 23:00:04,457: 940 entries were already downloaded
+INFO 2021-12-07 23:00:04,457: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-07 23:00:05,814: 939 entries were already downloaded
+INFO 2021-12-08 00:00:02,195: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 00:00:03,320: 938 entries were already downloaded
+INFO 2021-12-08 00:00:03,321: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 00:00:04,529: 939 entries were already downloaded
+INFO 2021-12-08 01:00:02,796: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 01:00:04,040: 939 entries were already downloaded
+INFO 2021-12-08 01:00:04,041: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 01:00:05,272: 939 entries were already downloaded
+INFO 2021-12-08 02:00:02,746: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 02:00:03,963: 939 entries were already downloaded
+INFO 2021-12-08 02:00:03,964: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 02:00:05,131: 939 entries were already downloaded
+INFO 2021-12-08 05:11:09,107: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 05:11:10,618: 808 entries were already downloaded
+INFO 2021-12-08 05:11:10,619: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 05:11:11,730: 808 entries were already downloaded
+INFO 2021-12-08 12:00:03,116: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 12:00:04,633: 590 entries were already downloaded
+INFO 2021-12-08 12:00:04,633: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 12:00:05,810: 590 entries were already downloaded
+INFO 2021-12-08 13:00:02,706: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 13:00:04,203: 939 entries were already downloaded
+INFO 2021-12-08 13:00:04,204: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 13:00:05,682: 939 entries were already downloaded
+INFO 2021-12-08 14:00:02,818: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 14:00:03,828: 939 entries were already downloaded
+INFO 2021-12-08 14:00:03,828: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 14:00:04,976: 939 entries were already downloaded
+INFO 2021-12-08 15:00:02,725: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 15:00:04,241: 940 entries were already downloaded
+INFO 2021-12-08 15:00:04,242: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 15:00:05,766: 939 entries were already downloaded
+INFO 2021-12-08 16:00:02,883: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 16:00:04,024: 939 entries were already downloaded
+INFO 2021-12-08 16:00:04,025: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 16:00:05,127: 939 entries were already downloaded
+INFO 2021-12-08 17:00:03,040: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 17:00:04,500: 938 entries were already downloaded
+INFO 2021-12-08 17:00:04,500: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 17:00:05,972: 939 entries were already downloaded
+INFO 2021-12-08 18:00:02,712: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 18:00:03,906: 939 entries were already downloaded
+INFO 2021-12-08 18:00:03,906: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 18:00:05,358: 939 entries were already downloaded
+INFO 2021-12-08 19:00:02,745: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 19:00:03,945: 940 entries were already downloaded
+INFO 2021-12-08 19:00:03,945: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 19:00:05,418: 939 entries were already downloaded
+INFO 2021-12-08 20:00:02,684: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 20:00:03,974: 939 entries were already downloaded
+INFO 2021-12-08 20:00:03,975: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 20:00:05,461: 939 entries were already downloaded
+INFO 2021-12-08 21:00:02,809: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 21:00:04,035: 939 entries were already downloaded
+INFO 2021-12-08 21:00:04,036: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 21:00:04,690: 939 entries were already downloaded
+INFO 2021-12-08 22:00:02,760: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 22:00:03,766: 938 entries were already downloaded
+INFO 2021-12-08 22:00:03,767: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 22:00:05,216: 938 entries were already downloaded
+INFO 2021-12-08 23:00:02,816: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-08 23:00:03,733: 940 entries were already downloaded
+INFO 2021-12-08 23:00:03,734: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-08 23:00:05,185: 940 entries were already downloaded
+INFO 2021-12-09 00:00:02,298: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 00:00:03,792: 938 entries were already downloaded
+INFO 2021-12-09 00:00:03,792: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 00:00:05,017: 939 entries were already downloaded
+INFO 2021-12-09 01:00:03,310: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 01:00:04,857: 940 entries were already downloaded
+INFO 2021-12-09 01:00:04,858: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 01:00:06,349: 939 entries were already downloaded
+INFO 2021-12-09 02:00:02,921: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 05:26:21,475: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 05:26:22,706: 732 entries were already downloaded
+INFO 2021-12-09 05:26:22,707: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 05:26:24,579: 732 entries were already downloaded
+INFO 2021-12-09 10:55:09,890: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 10:55:11,434: 671 entries were already downloaded
+INFO 2021-12-09 10:55:11,434: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 10:55:12,905: 670 entries were already downloaded
+INFO 2021-12-09 11:00:03,162: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 11:00:04,642: 993 entries were already downloaded
+INFO 2021-12-09 11:00:04,642: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 11:00:05,838: 995 entries were already downloaded
+INFO 2021-12-09 12:00:02,857: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 12:00:04,335: 940 entries were already downloaded
+INFO 2021-12-09 12:00:04,335: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 12:00:05,526: 939 entries were already downloaded
+INFO 2021-12-09 13:00:02,791: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 13:00:04,029: 938 entries were already downloaded
+INFO 2021-12-09 13:00:04,030: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 13:00:05,579: 939 entries were already downloaded
+INFO 2021-12-09 14:00:02,785: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 14:00:03,857: 940 entries were already downloaded
+INFO 2021-12-09 14:00:03,857: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 14:00:05,411: 939 entries were already downloaded
+INFO 2021-12-09 17:31:11,478: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 17:31:12,429: 787 entries were already downloaded
+INFO 2021-12-09 17:31:12,727: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 17:31:13,565: 787 entries were already downloaded
+INFO 2021-12-09 21:53:50,998: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 21:53:51,838: 737 entries were already downloaded
+INFO 2021-12-09 21:53:51,838: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 21:53:52,995: 737 entries were already downloaded
+INFO 2021-12-09 22:00:02,756: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 22:00:03,891: 993 entries were already downloaded
+INFO 2021-12-09 22:00:03,891: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 22:00:05,030: 993 entries were already downloaded
+INFO 2021-12-09 23:00:02,910: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-09 23:00:04,105: 939 entries were already downloaded
+INFO 2021-12-09 23:00:04,106: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-09 23:00:05,298: 939 entries were already downloaded
+INFO 2021-12-10 00:00:02,277: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 00:00:03,797: 939 entries were already downloaded
+INFO 2021-12-10 00:00:03,798: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 00:00:05,013: 939 entries were already downloaded
+INFO 2021-12-10 01:00:02,951: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 01:00:04,457: 938 entries were already downloaded
+INFO 2021-12-10 01:00:04,458: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 01:00:05,685: 939 entries were already downloaded
+INFO 2021-12-10 04:52:01,583: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 04:52:03,097: 768 entries were already downloaded
+INFO 2021-12-10 04:52:03,097: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 04:52:03,982: 767 entries were already downloaded
+INFO 2021-12-10 11:07:45,885: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 11:07:47,390: 623 entries were already downloaded
+INFO 2021-12-10 11:07:47,390: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 11:07:48,921: 623 entries were already downloaded
+INFO 2021-12-10 12:00:02,914: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 12:00:04,397: 947 entries were already downloaded
+INFO 2021-12-10 12:00:04,397: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 12:00:05,865: 947 entries were already downloaded
+INFO 2021-12-10 13:00:02,874: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 13:00:04,365: 939 entries were already downloaded
+INFO 2021-12-10 13:00:04,365: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 13:00:05,355: 939 entries were already downloaded
+INFO 2021-12-10 14:00:02,790: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 14:00:04,203: 939 entries were already downloaded
+INFO 2021-12-10 14:00:04,204: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 14:00:05,393: 939 entries were already downloaded
+INFO 2021-12-10 15:00:02,727: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 15:00:04,006: 939 entries were already downloaded
+INFO 2021-12-10 15:00:04,007: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 15:00:05,507: 939 entries were already downloaded
+INFO 2021-12-10 16:00:02,745: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 16:00:04,262: 938 entries were already downloaded
+INFO 2021-12-10 16:00:04,263: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 16:00:05,712: 938 entries were already downloaded
+INFO 2021-12-10 17:00:02,704: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 17:00:03,888: 939 entries were already downloaded
+INFO 2021-12-10 17:00:03,888: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 17:00:04,964: 939 entries were already downloaded
+INFO 2021-12-10 18:00:02,753: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 18:00:03,885: 939 entries were already downloaded
+INFO 2021-12-10 18:00:03,886: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 18:00:04,572: 939 entries were already downloaded
+INFO 2021-12-10 19:00:02,760: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 19:00:04,279: 939 entries were already downloaded
+INFO 2021-12-10 19:00:04,279: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 19:00:05,759: 939 entries were already downloaded
+INFO 2021-12-10 20:00:02,729: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 20:00:04,261: 939 entries were already downloaded
+INFO 2021-12-10 20:00:04,262: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 20:00:05,470: 940 entries were already downloaded
+INFO 2021-12-10 23:16:36,128: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-10 23:16:37,522: 803 entries were already downloaded
+INFO 2021-12-10 23:16:37,523: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-10 23:16:38,683: 802 entries were already downloaded
+INFO 2021-12-11 01:02:16,756: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-11 01:02:18,254: 893 entries were already downloaded
+INFO 2021-12-11 01:02:18,254: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-11 01:02:19,761: 893 entries were already downloaded
+INFO 2021-12-11 01:05:09,188: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-11 01:05:10,251: 996 entries were already downloaded
+INFO 2021-12-11 01:05:10,252: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-11 01:05:11,456: 996 entries were already downloaded
+INFO 2021-12-11 02:00:03,765: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-11 02:00:04,859: 945 entries were already downloaded
+INFO 2021-12-11 02:00:04,859: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-11 02:00:05,745: 945 entries were already downloaded
+INFO 2021-12-11 03:00:02,206: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-11 03:00:03,726: 939 entries were already downloaded
+INFO 2021-12-11 03:00:03,726: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-11 03:00:04,585: 939 entries were already downloaded
+INFO 2021-12-11 06:57:38,789: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-11 06:57:39,992: 761 entries were already downloaded
+INFO 2021-12-11 06:57:39,992: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-11 06:57:40,789: 761 entries were already downloaded
+INFO 2021-12-12 00:23:49,035: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 00:23:50,332: 0 entries were already downloaded
+INFO 2021-12-12 00:23:50,332: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-12 00:23:51,723: 0 entries were already downloaded
+INFO 2021-12-12 00:26:47,232: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 00:26:48,492: 996 entries were already downloaded
+INFO 2021-12-12 00:26:48,492: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-12 00:26:50,010: 996 entries were already downloaded
+INFO 2021-12-12 01:00:02,431: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 01:00:03,658: 965 entries were already downloaded
+INFO 2021-12-12 01:00:03,658: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-12 01:00:04,443: 965 entries were already downloaded
+INFO 2021-12-12 01:26:47,487: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 01:26:48,206: 973 entries were already downloaded
+INFO 2021-12-12 01:26:48,207: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-12 01:26:49,622: 973 entries were already downloaded
+INFO 2021-12-12 02:00:02,298: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 05:10:54,299: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 05:10:55,659: 775 entries were already downloaded
+INFO 2021-12-12 05:10:55,659: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-12 05:10:57,052: 775 entries were already downloaded
+INFO 2021-12-12 11:20:42,524: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 11:20:43,535: 629 entries were already downloaded
+INFO 2021-12-12 11:20:43,535: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-12 11:20:44,624: 629 entries were already downloaded
+INFO 2021-12-12 11:26:47,601: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 11:26:48,863: 993 entries were already downloaded
+INFO 2021-12-12 11:26:48,864: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-12 11:26:50,253: 993 entries were already downloaded
+INFO 2021-12-12 15:20:04,238: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-12 15:20:05,361: 765 entries were already downloaded
+INFO 2021-12-12 15:20:05,361: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-12 15:20:06,534: 766 entries were already downloaded
+INFO 2021-12-13 09:38:03,885: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 09:38:05,148: 0 entries were already downloaded
+INFO 2021-12-13 09:38:05,149: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 09:38:06,560: 0 entries were already downloaded
+INFO 2021-12-13 10:38:03,602: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 10:38:04,795: 939 entries were already downloaded
+INFO 2021-12-13 10:38:04,795: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 10:38:05,979: 939 entries were already downloaded
+INFO 2021-12-13 11:38:03,746: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 11:38:05,157: 939 entries were already downloaded
+INFO 2021-12-13 11:38:05,158: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 11:38:06,571: 939 entries were already downloaded
+INFO 2021-12-13 12:38:03,584: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 12:38:04,260: 939 entries were already downloaded
+INFO 2021-12-13 12:38:04,260: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 12:38:05,173: 939 entries were already downloaded
+INFO 2021-12-13 13:38:03,586: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 13:38:04,303: 938 entries were already downloaded
+INFO 2021-12-13 13:38:04,304: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 13:38:05,296: 939 entries were already downloaded
+INFO 2021-12-13 14:38:03,649: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 14:38:04,585: 940 entries were already downloaded
+INFO 2021-12-13 14:38:04,585: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 14:38:06,073: 939 entries were already downloaded
+INFO 2021-12-13 15:38:03,615: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 15:38:04,859: 939 entries were already downloaded
+INFO 2021-12-13 15:38:04,860: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 15:38:06,071: 939 entries were already downloaded
+INFO 2021-12-13 16:38:03,652: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 16:38:05,210: 939 entries were already downloaded
+INFO 2021-12-13 16:38:05,210: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 16:38:06,423: 938 entries were already downloaded
+INFO 2021-12-13 17:38:03,676: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 17:38:04,847: 939 entries were already downloaded
+INFO 2021-12-13 17:38:04,848: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 17:38:05,750: 939 entries were already downloaded
+INFO 2021-12-13 18:38:03,608: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 18:38:05,070: 939 entries were already downloaded
+INFO 2021-12-13 18:38:05,071: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 18:38:06,517: 939 entries were already downloaded
+INFO 2021-12-13 19:38:03,555: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 19:38:04,298: 939 entries were already downloaded
+INFO 2021-12-13 19:38:04,299: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 19:38:05,292: 939 entries were already downloaded
+INFO 2021-12-13 20:38:03,636: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 20:38:05,206: 938 entries were already downloaded
+INFO 2021-12-13 20:38:05,206: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 20:38:06,404: 940 entries were already downloaded
+INFO 2021-12-13 21:38:03,615: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 21:38:04,839: 940 entries were already downloaded
+INFO 2021-12-13 21:38:04,839: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 21:38:06,068: 938 entries were already downloaded
+INFO 2021-12-13 22:38:03,651: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 22:38:05,144: 939 entries were already downloaded
+INFO 2021-12-13 22:38:05,145: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 22:38:05,816: 940 entries were already downloaded
+INFO 2021-12-13 23:38:03,615: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-13 23:38:04,870: 938 entries were already downloaded
+INFO 2021-12-13 23:38:04,870: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-13 23:38:05,895: 939 entries were already downloaded
+INFO 2021-12-14 00:00:02,202: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 00:00:03,434: 978 entries were already downloaded
+INFO 2021-12-14 00:00:03,434: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 00:00:04,632: 977 entries were already downloaded
+INFO 2021-12-14 00:38:03,633: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 00:38:04,552: 961 entries were already downloaded
+INFO 2021-12-14 00:38:04,552: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 00:38:05,624: 961 entries were already downloaded
+INFO 2021-12-14 03:56:19,662: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 03:56:20,958: 800 entries were already downloaded
+INFO 2021-12-14 03:56:20,959: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 03:56:22,471: 800 entries were already downloaded
+INFO 2021-12-14 09:38:03,619: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 09:38:04,801: 658 entries were already downloaded
+INFO 2021-12-14 09:38:04,802: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 09:38:06,283: 658 entries were already downloaded
+INFO 2021-12-14 10:00:02,648: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 10:00:04,152: 976 entries were already downloaded
+INFO 2021-12-14 10:00:04,154: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 10:00:05,681: 977 entries were already downloaded
+INFO 2021-12-14 10:38:03,656: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 10:38:04,691: 962 entries were already downloaded
+INFO 2021-12-14 10:38:04,692: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 10:38:06,070: 961 entries were already downloaded
+INFO 2021-12-14 11:00:02,705: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 11:00:03,944: 977 entries were already downloaded
+INFO 2021-12-14 11:00:03,945: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 11:00:05,362: 976 entries were already downloaded
+INFO 2021-12-14 12:00:02,669: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 12:00:04,202: 938 entries were already downloaded
+INFO 2021-12-14 12:00:04,203: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 12:00:05,359: 940 entries were already downloaded
+INFO 2021-12-14 13:00:02,714: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 13:00:03,958: 939 entries were already downloaded
+INFO 2021-12-14 13:00:03,959: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 13:00:05,351: 939 entries were already downloaded
+INFO 2021-12-14 14:00:02,790: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 14:00:03,789: 940 entries were already downloaded
+INFO 2021-12-14 14:00:03,789: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 14:00:05,245: 939 entries were already downloaded
+INFO 2021-12-14 15:00:02,825: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 15:00:04,049: 939 entries were already downloaded
+INFO 2021-12-14 15:00:04,050: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 15:00:05,017: 939 entries were already downloaded
+INFO 2021-12-14 16:00:02,645: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 16:00:04,110: 939 entries were already downloaded
+INFO 2021-12-14 16:00:04,111: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 16:00:05,217: 939 entries were already downloaded
+INFO 2021-12-14 17:00:02,680: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 17:00:03,900: 938 entries were already downloaded
+INFO 2021-12-14 17:00:03,900: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 17:00:05,355: 939 entries were already downloaded
+INFO 2021-12-14 18:00:02,593: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 18:00:03,683: 939 entries were already downloaded
+INFO 2021-12-14 18:00:03,683: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 18:00:04,898: 939 entries were already downloaded
+INFO 2021-12-14 19:00:02,769: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 19:00:03,915: 940 entries were already downloaded
+INFO 2021-12-14 19:00:03,916: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 19:00:05,021: 939 entries were already downloaded
+INFO 2021-12-14 20:00:02,640: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 20:00:04,153: 939 entries were already downloaded
+INFO 2021-12-14 20:00:04,153: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 20:00:04,920: 939 entries were already downloaded
+INFO 2021-12-14 21:00:02,716: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 21:00:03,934: 939 entries were already downloaded
+INFO 2021-12-14 21:00:03,934: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 21:00:05,161: 939 entries were already downloaded
+INFO 2021-12-14 22:00:02,618: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 22:00:03,664: 939 entries were already downloaded
+INFO 2021-12-14 22:00:03,665: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 22:00:05,137: 939 entries were already downloaded
+INFO 2021-12-14 23:09:15,041: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-14 23:09:16,261: 929 entries were already downloaded
+INFO 2021-12-14 23:09:16,262: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-14 23:09:17,747: 929 entries were already downloaded
+INFO 2021-12-15 00:00:02,205: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 00:00:03,416: 949 entries were already downloaded
+INFO 2021-12-15 00:00:03,416: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 00:00:04,649: 948 entries were already downloaded
+INFO 2021-12-15 01:00:02,686: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 01:00:03,877: 938 entries were already downloaded
+INFO 2021-12-15 01:00:03,877: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 01:00:05,001: 940 entries were already downloaded
+INFO 2021-12-15 02:00:02,800: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 02:00:03,940: 940 entries were already downloaded
+INFO 2021-12-15 02:00:03,940: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 02:00:05,434: 938 entries were already downloaded
+INFO 2021-12-15 05:21:26,131: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 05:21:27,689: 797 entries were already downloaded
+INFO 2021-12-15 05:21:27,689: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 05:21:28,812: 798 entries were already downloaded
+INFO 2021-12-15 17:57:00,153: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 17:57:01,633: 244 entries were already downloaded
+INFO 2021-12-15 17:57:01,634: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 17:57:03,190: 243 entries were already downloaded
+INFO 2021-12-15 18:00:03,313: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 18:00:04,941: 995 entries were already downloaded
+INFO 2021-12-15 18:00:04,941: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 18:00:06,279: 997 entries were already downloaded
+INFO 2021-12-15 19:00:02,750: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 19:00:04,027: 940 entries were already downloaded
+INFO 2021-12-15 19:00:04,027: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 19:00:05,252: 938 entries were already downloaded
+INFO 2021-12-15 20:00:02,664: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 20:00:03,916: 938 entries were already downloaded
+INFO 2021-12-15 20:00:03,916: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 20:00:05,113: 939 entries were already downloaded
+INFO 2021-12-15 21:00:02,708: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 21:00:03,940: 940 entries were already downloaded
+INFO 2021-12-15 21:00:03,940: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 21:00:05,103: 940 entries were already downloaded
+INFO 2021-12-15 22:00:02,784: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 22:00:04,029: 938 entries were already downloaded
+INFO 2021-12-15 22:00:04,030: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 22:00:05,242: 939 entries were already downloaded
+INFO 2021-12-15 23:00:02,701: Updating SPOT_BTC_USDT_1m.csv
+INFO 2021-12-15 23:00:03,932: 940 entries were already downloaded
+INFO 2021-12-15 23:00:03,933: Updating SPOT_ETH_USDT_1m.csv
+INFO 2021-12-15 23:00:05,043: 939 entries were already downloaded
