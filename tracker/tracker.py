@@ -36,6 +36,7 @@ for symbol in SYMBOLS:
     # Read existing entries
     with open(filename, 'r', newline='') as fp:
         csv_reader = csv.reader(fp, delimiter=',', quotechar='"')
+        next(csv_reader) # skip the header
         rows = { row[2]: tuple(row) for row in csv_reader }
 
     # Add new entries

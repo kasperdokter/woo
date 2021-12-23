@@ -1,44 +1,47 @@
-from simulator import PlatformSimulator, Order, BUY, SELL, LIMIT, MARKET, strtime
+from simulator import PlatformSimulator, Order, BUY, SELL, LIMIT, MARKET
 import numpy as np
 import matplotlib.pyplot as plt
 import warnings
 
+# DEZE STRATEGIE GEEFT GEEN WINST
+
 warnings.simplefilter('ignore', np.RankWarning)
 
 def get_time_price(history, window_size=0):
-    time = [row[2] for row in history[-window_size:]]
-    price = [row[1] for row in history[-window_size:]]
+    time = [row.timestamp for row in history[-window_size:]]
+    price = [row.open for row in history[-window_size:]]
     return time, price
 
-def get_model(time, price, degree):
-    coefficients = np.polyfit(time, price, degree)
+def get_model(price, degree):
+    coefficients = np.polyfit(range(len(price)), price, degree)
     polynomial = np.poly1d(coefficients) # polynomials can be evaluated easily
     return polynomial
 
 def plot(time, price, model, title=None):
     plt.plot(time, price)
-    plt.plot(time, model(time))
-    plt.title(title or f'{strtime(time[0])} to {strtime(time[-1])}')
+    plt.plot(time, model(range(len(price))))
+    plt.title(title or f'{time[0]} to {time[-1]}')
     plt.show()
 
 class BoxStrategy:
 
-    def __init__(self) -> None:
+    def __init__(self, history) -> None:
+        self.history = history
         self.stoploss = None
 
-    def get_orders(self, history, orders, btc, usdt, tijd):
-        if len(history) < 60:
+    def get_orders(self, time, orders, btc, usdt):
+        if time < 60:
             return None, []
 
         # Wacht op een dippie of toppie
         window_size = 20
-        time, price = get_time_price(history, window_size)
-        model = get_model(time, price, 2)
+        time, price = get_time_price(self.history[:time], window_size)
+        model = get_model(price, 2)
         # if tijd % 1000 == 0:
             # plot(time, price, model)
         a, b, c = model.coefficients
         midpoint = -b / (2 * a)
-        net_extrema_gehad = time[-10] < midpoint and midpoint < time[-8]
+        net_extrema_gehad = len(price)-10 < midpoint and midpoint < len(price)-8
         dippie = a > 0 and net_extrema_gehad
         toppie = a < 0 and net_extrema_gehad
 
@@ -57,5 +60,12 @@ class BoxStrategy:
 
         return order, []
 
-WOO = PlatformSimulator('simulator/SPOT_BTC_USDT_1m.csv')
-WOO.run(BoxStrategy())
+file = 'tracker/SPOT_BTC_USDT_1m.csv'
+# file = 'tracker/SPOT_ETH_USDT_1m.csv'
+# file = 'data/gemini_BTCUSD_2019_1min.csv'
+# file = 'data/gemini_BTCUSD_2018_1min.csv'
+# file = 'data/gemini_BTCUSD_2017_1min.csv'
+# file = 'data/gemini_BTCUSD_2016_1min.csv'
+# file = 'data/gemini_BTCUSD_2015_1min.csv'
+WOO = PlatformSimulator(file)
+WOO.run(BoxStrategy)

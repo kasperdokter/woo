@@ -6,35 +6,36 @@ import warnings
 warnings.simplefilter('ignore', np.RankWarning)
 
 def get_time_price(history, window_size=0):
-    time = [row[2] for row in history[-window_size:]]
-    price = [row[1] for row in history[-window_size:]]
+    time = [row.timestamp for row in history[-window_size:]]
+    price = [row.open for row in history[-window_size:]]
     return time, price
 
 def get_model(time, price, degree):
-    coefficients = np.polyfit(time, price, degree)
+    coefficients = np.polyfit(range(len(price)), price, degree)
     polynomial = np.poly1d(coefficients) # polynomials can be evaluated easily
     return polynomial
 
 def plot(time, price, model, title=None):
     plt.plot(time, price)
-    plt.plot(time, model(time))
+    plt.plot(time, model(range(len(price))))
     plt.title(title or f'{strtime(time[0])} to {strtime(time[-1])}')
     plt.show()
 
 class BoxStrategy:
 
-    def __init__(self) -> None:
+    def __init__(self, history) -> None:
+        self.history = history
         self.stoploss = None
 
-    def get_orders(self, history, orders, btc, usdt, tijd):
+    def get_orders(self, time, orders, btc, usdt):
 
-        if len(history) < 60*12:
+        if time < 60*12:
             return None, []
 
         # long term trend
         window_size = 60*12
-        time, price = get_time_price(history, window_size)
-        model1 = get_model(time, price, 1)
+        time, price = get_time_price(self.history[:time], window_size)
+        model1 = get_model(price, 1)
         trend1 = model1(time)
         a, b = model1.coefficients
 
@@ -70,5 +71,12 @@ class BoxStrategy:
 
         return order, []
 
-WOO = PlatformSimulator('simulator/SPOT_BTC_USDT_1m.csv')
-WOO.run(BoxStrategy())
+file = 'tracker/SPOT_BTC_USDT_1m.csv'
+# file = 'tracker/SPOT_ETH_USDT_1m.csv'
+# file = 'data/gemini_BTCUSD_2019_1min.csv'
+# file = 'data/gemini_BTCUSD_2018_1min.csv'
+# file = 'data/gemini_BTCUSD_2017_1min.csv'
+# file = 'data/gemini_BTCUSD_2016_1min.csv'
+# file = 'data/gemini_BTCUSD_2015_1min.csv'
+WOO = PlatformSimulator(file)
+WOO.run(BoxStrategy)
