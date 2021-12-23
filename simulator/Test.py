@@ -6,7 +6,7 @@ import warnings
 
 
 
-# DEZE STRATEGIE WERK EEN BEETJE
+# DEZE STRATEGIE GAAT NIET WERKEN
 
 warnings.simplefilter('ignore', np.RankWarning)
 
