@@ -1,33 +1,28 @@
-from simulator import PlatformSimulator, Order, BUY, SELL, LIMIT, MARKET
+from simulator import Strategy
 
+class EfficientSort(Strategy):
 
-# DEZE STRATEGIE HEEFT BUGS
-
-class BoxStrategy:
-
-    def __init__(self, history, time=0) -> None:
-        self.history = history
-        self.time = time
+    def __init__(self) -> None:
+        super().__init__()
+        self.window_size = 60*24*2
         self.stop_loss = None
         self.sprice = None
         self.min_index = None
         self.max_index = None
         self.penalty = None
-        self.max_profit = None
+        self.max_profit = 1
         self.buy_price = None
+        self.sell_trigger = None
 
-    def get_orders(self, time, orders, btc, usdt):
-
-        window_size = 60*24*2
-
-        if time < window_size:
-            return None, []
+    def query(self, time):
+        if time < self.window_size:
+            return
         
-        price_60 = self.history[time-60].open
-        last_price = self.history[time-1].open
+        price_60 = self.history[time-60].close
+        last_price = self.history[time-1].close
 
         if self.sprice is None:
-            price = [self.history[t].open for t in range(time-window_size, time)]
+            price = [self.history[t].close for t in range(time-self.window_size, time)]
             self.sprice = list(enumerate(price))
             self.sprice.sort(key=lambda x:x[1])
             self.min_index = 0
@@ -76,24 +71,20 @@ class BoxStrategy:
         high = self.sprice[j][1]
         superlow = self.sprice[k][1]
 
-        if btc and last_price > high:
+        if self.btc and last_price > high:
             self.max_profit = max(last_price / self.buy_price, self.max_profit)
 
-        if usdt and last_price < low and superlow < last_price and abs(price_60 / last_price) < 1 and (self.penalty is None or self.penalty < time):
-            order = Order(BUY, MARKET, None)
+        if self.usdt and last_price < low and superlow < last_price and abs(price_60 / last_price) < 1 and (self.penalty is None or self.penalty < time):
+            self.market_buy()
             self.buy_price = last_price
-        elif btc and self.buy_price is not None and last_price < self.buy_price * 0.98:
-            order = Order(SELL, MARKET, None)
+        elif self.btc and self.buy_price is not None and last_price < self.buy_price * 0.98:
+            self.market_sell()
             # self.penalty = time + window_size // 2
             self.buy_price = None
-        elif btc and last_price < high and self.sell_trigger:
-            order = Order(SELL, MARKET, None)
+        elif self.btc and last_price < high and self.sell_trigger:
+            self.market_sell()
             self.buy_price = None
             self.sell_trigger = False
-        else:
-            order = None
-
-        return order, []
 
 file = 'tracker/SPOT_BTC_USDT_1m.csv'
 # file = 'tracker/SPOT_ETH_USDT_1m.csv'
@@ -102,5 +93,5 @@ file = 'tracker/SPOT_BTC_USDT_1m.csv'
 # file = 'data/gemini_BTCUSD_2017_1min.csv'
 # file = 'data/gemini_BTCUSD_2016_1min.csv'
 # file = 'data/gemini_BTCUSD_2015_1min.csv'
-WOO = PlatformSimulator(file)
-WOO.run(BoxStrategy)
+strategy = EfficientSort()
+strategy.run(file)
